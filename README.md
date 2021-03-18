@@ -2,6 +2,7 @@
 - 👀 I’m interested in C++
 - 🌱 I’m currently learning about graphics in C++
 - 📫 How to reach me:
+
 Instagram: https://www.instagram.com/maaqs__/  
 
 Github: https://github.com/ManczakMaksymilian
