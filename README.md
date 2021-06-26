@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ManczakMaksymilian
 - 👀 I’m interested in frontend and backend
 - 🌱 I’m currently learning: C++, HTML, CSS and JavaScript
-- 📫 How to reach me: [Instagram](https://instagram.com/maaqs__)
+- 📫 How to reach me:  [Instagram](https://instagram.com/maaqs__) , [Mail](maksymilianmanczak@gmail.com)
