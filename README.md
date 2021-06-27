@@ -4,3 +4,6 @@
 - 📫 How to reach me:  [Instagram](https://instagram.com/maaqs__) , [Github](https://github.com/ManczakMaksymilian)
 
 <img src="https://github-readme-stats.vercel.app/api?username=ManczakMaksymilian&&show_icons&title_color=fff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManczakMaksymilian)](https://github.com/ManczakMaksymilian/github-readme-stats)
+
